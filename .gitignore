@@ -58,6 +58,7 @@ nunit-*.xml
 [Oo]bj/
 
 # Visual Studio files
+# .gitignore
 .vs/
 *.user
 *.suo
