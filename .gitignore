@@ -52,3 +52,40 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userprefs
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+
+# Test Results
+TestResults/
+[Tt]est[Rr]esult*/
+
+# Playwright-specific
+playwright-report/
+test-results/
+playwright/.cache/
+.playwright-snapshots/
+Reports/screenshots/
+Reports/traces/
+Reports/videos/
